@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Hello World !!*
+_Today is a very beautiful day._
+**You must work hard everyday**
+__But without worrying about the outcome.__
+:smile:
+:tada:
